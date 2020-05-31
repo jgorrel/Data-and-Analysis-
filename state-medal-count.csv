@@ -1,4 +1,4 @@
-State,location,lat,lon
+State_Abbr,State,lat,lon
 AK,Alaska,28.12768,-117.981766
 AL,Alabama,32.688053,-86.810585
 AR,Arkansas,34.755883,-92.640559
